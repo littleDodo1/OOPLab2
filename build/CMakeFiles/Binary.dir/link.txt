@@ -1,0 +1,2 @@
+/usr/bin/ar qc libBinary.a CMakeFiles/Binary.dir/src/Binary.cpp.o
+/usr/bin/ranlib libBinary.a

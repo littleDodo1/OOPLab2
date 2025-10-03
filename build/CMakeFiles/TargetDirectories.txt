@@ -1,0 +1,5 @@
+/home/donot/Projects/OOPlabs/lab2/build/CMakeFiles/Binary.dir
+/home/donot/Projects/OOPlabs/lab2/build/CMakeFiles/test_binary.dir
+/home/donot/Projects/OOPlabs/lab2/build/CMakeFiles/test.dir
+/home/donot/Projects/OOPlabs/lab2/build/CMakeFiles/edit_cache.dir
+/home/donot/Projects/OOPlabs/lab2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/test_binary.dir/test/test.cpp.o -o test_binary  libBinary.a /usr/local/lib/libgtest_main.a /usr/local/lib/libgtest.a 
